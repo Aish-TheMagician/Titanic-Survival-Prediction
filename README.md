@@ -1,4 +1,4 @@
-# README: Binary Classification Model Performance
+# Binary Classification Model Performance
 
 ## Project Overview
 This project focuses on binary classification using multiple machine learning models. The models have been trained on a dataset to predict a binary target variable (0 or 1). The performance metrics indicate exceptionally high accuracy.
